@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="own_project_build" />
+        <module name="own_webdriver_training" />
       </profile>
     </annotationProcessing>
   </component>
