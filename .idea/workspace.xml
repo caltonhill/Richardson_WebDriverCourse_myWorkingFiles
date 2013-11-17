@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa08f01-57cc-4a0b-96b8-68e09567e576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/RichardsonInterrogationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/Section10InterrogationTest.java" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\src\test\java\com\seleniumtraining\exercises\Section8NavigationExercisesTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="own_project_build.iws" />
@@ -18,7 +13,7 @@
     <file path="/JUnitBeforeAfter.java" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1383082303346" ignored="false" />
     <file path="/JUnitJamesExerciseTest2.java" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1383171484526" ignored="false" />
     <file path="/NavigationExampleTest.java" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1384206006097" ignored="false" />
-    <file path="/Dummy.txt" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1384701960910" ignored="false" />
+    <file path="/Dummy.txt" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1384706798716" ignored="false" />
     <file path="/Section8NavigationExercisesTest.java" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1384212340777" ignored="false" />
     <file path="/Section10InterrogationTest.java" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1384376985036" ignored="false" />
     <file path="/RichardsonInterrogationTest.java" changelist="0fa08f01-57cc-4a0b-96b8-68e09567e576" time="1384462953945" ignored="false" />
@@ -106,7 +101,7 @@
       <file leaf-file-name="FirstFindByExercises.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="1908" selection-end="1908" vertical-scroll-proportion="0.5603448">
+            <state line="55" column="0" selection-start="1908" selection-end="1908" vertical-scroll-proportion="1.0700219">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -651,6 +646,11 @@
       <created>1382880313301</created>
       <updated>1382880313301</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desktop. Added first group of Interrogation-based Tests for lectures 60-65">
+      <created>1384706807274</created>
+      <updated>1384706807274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -675,9 +675,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -685,12 +685,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31849793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31849793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.6815021" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14705883" sideWeight="0.6815021" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14705883" sideWeight="0.67176634" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24246772" sideWeight="0.6815021" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24246772" sideWeight="0.67176634" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32545203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -742,7 +742,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desktop. Added first group of Interrogation-based Tests for lectures 60-65" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -756,6 +756,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Desktop. Added first group of Interrogation-based Tests for lectures 60-65" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -858,7 +859,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="1908" selection-end="1908" vertical-scroll-proportion="0.5603448">
+        <state line="55" column="0" selection-start="1908" selection-end="1908" vertical-scroll-proportion="1.0700219">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
