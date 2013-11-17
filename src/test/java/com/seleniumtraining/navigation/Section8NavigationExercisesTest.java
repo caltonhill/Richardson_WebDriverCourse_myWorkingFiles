@@ -1,4 +1,4 @@
-package com.seleniumtraining.exercises;
+package com.seleniumtraining.navigation;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
