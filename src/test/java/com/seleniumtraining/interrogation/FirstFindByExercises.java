@@ -8,16 +8,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.assertThat;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Macdonald
- * Date: 17/11/13
- * Time: 15:26
- * To change this template use File | Settings | File Templates.
- */
 public class FirstFindByExercises {
     private static WebDriver driver;
 

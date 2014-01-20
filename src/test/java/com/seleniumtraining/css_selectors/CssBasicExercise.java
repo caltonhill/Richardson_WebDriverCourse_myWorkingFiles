@@ -8,6 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.util.List;
+
 import static junit.framework.Assert.assertTrue;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
@@ -41,6 +43,12 @@ public class CssBasicExercise {
     public void canFindTagName(){
         WebElement tagName = driver.findElement(By.cssSelector("[name='liName1']"));
         assertThat(tagName.getAttribute("name"),is("liName1"));
+    }
+    @Test
+    public void canFindParasWithNameContainsPN (){
+        List<WebElement> MultiParas = driver.findElements(By.cssSelector("p[name*='pN']"));
+        assertThat("Expected total is 41",MultiParas.size(), is(41));
+        System.out.println("If you knew how you could print out what test proved here");
     }
 
 

@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa08f01-57cc-4a0b-96b8-68e09567e576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_android_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_android_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_server_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_2_39_0.xml" />
+      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_39_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/own_webdriver_training.iml" afterPath="$PROJECT_DIR$/own_webdriver_training.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="own_project_build.iws" />
@@ -69,28 +89,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FirstFindByExercises.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
+      <file leaf-file-name="RwSubscriberLoginThroughBarrier.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="65" selection-start="1013" selection-end="1061" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1139">
-              <folding />
+            <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="2.0852392" vertical-offset="0" max-vertical-offset="1870">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindElementsExercise.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
+      <file leaf-file-name="HsjSubscriberLoginThroughBarrier.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="56" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="986">
-              <folding />
+            <state line="31" column="64" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="1836">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CssBasicExercise.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
+      <file leaf-file-name="AJSubscriberLoginThroughBarrier.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="64" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.3830645" vertical-offset="242" max-vertical-offset="986">
+            <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="1853">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/RealBrowser.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitExampleTest.java" />
@@ -128,9 +151,14 @@
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/Section10InterrogationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/RichardsonInterrogationTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java" />
       </list>
     </option>
   </component>
@@ -192,8 +220,8 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages ProjectPane="true" />
-      <showMembers ProjectPane="true" />
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -242,6 +270,18 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdriver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -265,12 +305,144 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css_selectors" />
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CssBasicExercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="navigation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interrogation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_selectors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jamestests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -289,8 +461,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,25 +477,25 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Selenium\own_project_build\src\test\java\com\seleniumtraining\junit" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CssBasicExercise">
-    <configuration default="false" name="FirstFindByExercises" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.com.jamestests in own_webdriver_training">
+    <configuration default="false" name="AJSubscriberLoginThroughBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.seleniumtraining.interrogation" />
-      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.interrogation.FirstFindByExercises" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.AJSubscriberLoginThroughBarrier" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -346,12 +518,12 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FindElementsExercise" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="RwSubscriberLoginThroughBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.seleniumtraining.interrogation" />
-      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.interrogation.FindElementsExercise" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.RwSubscriberLoginThroughBarrier" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -364,23 +536,17 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FindElementsExercise.returnAListOfElementsByTagNameAndCountAnchorsToParas" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="AJSubscriberLoginThroughBarrier.testSigninARTICLEAJSUBSCRIBER" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.seleniumtraining.interrogation" />
-      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.interrogation.FindElementsExercise" />
-      <option name="METHOD_NAME" value="returnAListOfElementsByTagNameAndCountAnchorsToParas" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.AJSubscriberLoginThroughBarrier" />
+      <option name="METHOD_NAME" value="testSigninARTICLEAJSUBSCRIBER" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -396,14 +562,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CssBasicExercise" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="RwSubscriberLoginThroughBarrier.testRwSubscriberLoginThroughBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.seleniumtraining.css_selectors" />
-      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.css_selectors.CssBasicExercise" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.RwSubscriberLoginThroughBarrier" />
+      <option name="METHOD_NAME" value="testRwSubscriberLoginThroughBarrier" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -414,24 +580,18 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CssBasicExercise.canFindP31" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="com.jamestests in own_webdriver_training" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.seleniumtraining.css_selectors" />
-      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.css_selectors.CssBasicExercise" />
-      <option name="METHOD_NAME" value="canFindP31" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -472,6 +632,26 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -556,20 +736,39 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FirstFindByExercises" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FindElementsExercise" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FindElementsExercise.returnAListOfElementsByTagNameAndCountAnchorsToParas" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CssBasicExercise" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CssBasicExercise.canFindP31" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier.testSigninARTICLEAJSUBSCRIBER" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier.testRwSubscriberLoginThroughBarrier" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.com.jamestests in own_webdriver_training" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CssBasicExercise" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CssBasicExercise.canFindP31" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FindElementsExercise" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FindElementsExercise.returnAListOfElementsByTagNameAndCountAnchorsToParas" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FirstFindByExercises" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.com.jamestests in own_webdriver_training" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier.testRwSubscriberLoginThroughBarrier" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier.testSigninARTICLEAJSUBSCRIBER" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -634,32 +833,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32732317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32597402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15994437" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15844156" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31558442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.6815021" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15277778" sideWeight="0.674548" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15486111" sideWeight="0.67267686" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24236111" sideWeight="0.674548" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32545203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24166666" sideWeight="0.67267686" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1256" height="676" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31571627" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -687,6 +886,101 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1717">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="127" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="21" selection-start="584" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/NavigationExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="449" selection-end="890" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/FirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="35" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="277" max-vertical-offset="918">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="127" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="6" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.0" vertical-offset="935" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="441" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="65" selection-start="1013" selection-end="1061" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1139">
@@ -703,11 +997,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="64" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="986">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="30" column="16" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="986" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
@@ -726,11 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="64" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="986">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="30" column="16" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="986" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.37.0/selenium-api-2.37.0-sources.jar!/org/openqa/selenium/WebDriver.java">
@@ -758,13 +1044,6 @@
         <state line="6" column="13" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="49" selection-start="718" selection-end="718" vertical-scroll-proportion="0.08405172" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitJamesExerciseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -775,48 +1054,99 @@
         <state line="11" column="13" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="218" selection-end="218" vertical-scroll-proportion="0.100890204" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.3323442" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/NavigationExampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="449" selection-end="890" vertical-scroll-proportion="0.2935252" vertical-offset="0" max-vertical-offset="0" />
+        <state line="28" column="21" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="748">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/RichardsonInterrogationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state line="17" column="13" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="714">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/Section10InterrogationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="26" selection-start="1105" selection-end="1189" vertical-scroll-proportion="0.44444445" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="56" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="40" column="26" selection-start="1105" selection-end="1189" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="833">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="65" selection-start="1013" selection-end="1061" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="441" max-vertical-offset="1037">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="64" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.3830645" vertical-offset="242" max-vertical-offset="986">
+        <state line="22" column="21" selection-start="584" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/NavigationExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="449" selection-end="890" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/FirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/navigation/Section8NavigationExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="127" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="521" selection-end="521" vertical-scroll-proportion="0.6447106" vertical-offset="0" max-vertical-offset="2363">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="1853">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="64" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="1836">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="2.0852392" vertical-offset="0" max-vertical-offset="1870">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -9,7 +9,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.List;
+
+import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;
 
 /*
@@ -36,6 +39,11 @@ public class FindElementsExercise {
             assertTrue(divs.size()== 19);
     }
     @Test
+    public void assert25LocalHrefLinks(){
+        List<WebElement> hreflinks = driver.findElements(By.partialLinkText("jump to"));
+        assertThat("can put a string here", hreflinks.size(), is(25));
+    }
+    @Test
         public void returnAListOfElementsByTagNameAndAssertHowManyAnchorsToParas(){
             List<WebElement> anchors = driver.findElements(By.tagName("a"));
             assertTrue(anchors.size()>= 40);
@@ -44,6 +52,20 @@ public class FindElementsExercise {
         public void returnAListofElementsByPartialLinkTextAndAssertSize(){
             List<WebElement> paraLinks = driver.findElements(By.partialLinkText("jump to para"));
             assertEquals(25,paraLinks.size());
+    }
+    @Test
+        public void canCopyRichardsonsWayOfAssertingNestedParas(){
+            List<WebElement> nestedparas = driver.findElements(By.tagName("p"));
+        //and now a for loop!
+        int nestedCount = 0;
+        for(WebElement e : nestedparas){
+            if (e.getText().contains("nested para")){
+                nestedCount++;
+            }
+        }
+        assertThat(nestedCount, is (16));
+        assertThat(nestedparas.size(), is (41));
+
     }
     @AfterClass
     public static void quitDriver(){
