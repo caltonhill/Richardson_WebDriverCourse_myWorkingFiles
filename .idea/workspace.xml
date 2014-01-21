@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa08f01-57cc-4a0b-96b8-68e09567e576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="own_project_build.iws" />
@@ -73,16 +72,7 @@
       <file leaf-file-name="VerifyAllHomepagesOnFirstServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2159">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifyAllHomepagesOnSecondServer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="38" selection-start="5447" selection-end="5447" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="2329">
+            <state line="57" column="93" selection-start="2413" selection-end="2413" vertical-scroll-proportion="-5.090909" vertical-offset="689" max-vertical-offset="2329">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +80,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifyAllHomepagesOnThirdServer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="VerifyAllHomepagesOnSecondServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="120" column="96" selection-start="5703" selection-end="5703" vertical-scroll-proportion="-9.309091" vertical-offset="1528" max-vertical-offset="2329">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyAllHomepagesOnThirdServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="2.8243833" vertical-offset="60" max-vertical-offset="2329">
+            <state line="120" column="96" selection-start="5688" selection-end="5688" vertical-scroll-proportion="-9.181818" vertical-offset="1535" max-vertical-offset="2329">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmapFriendlyUrlChecker.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="58" selection-start="764" selection-end="1112" vertical-scroll-proportion="-2.3530655" vertical-offset="1640" max-vertical-offset="2363">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyAllHomepagesOnMainDomain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="7" selection-start="5270" selection-end="5270" vertical-scroll-proportion="0.0" vertical-offset="1585" max-vertical-offset="2329">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -478,29 +501,7 @@
       <recent name="C:\Selenium\own_project_build\src\test\java\com\seleniumtraining\junit" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain">
-    <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyNtHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="own_webdriver_training" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
-      <option name="METHOD_NAME" value="canVerifyNtHomepageOnMainDomain" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.EmapFriendlyUrlChecker">
     <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -575,6 +576,28 @@
       <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
       <option name="METHOD_NAME" value="canVerifyRwHomepageOnMainDomain" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EmapFriendlyUrlChecker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="own_webdriver_training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.EmapFriendlyUrlChecker" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -739,19 +762,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyNtHomepageOnMainDomain" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyNtHomepageOnMainDomain" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -795,7 +818,11 @@
       <created>1390256642265</created>
       <updated>1390256642265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added EMAP verify homepages smoketests&#10;">
+      <created>1390339124442</created>
+      <updated>1390339124442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -820,7 +847,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32597402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -838,8 +865,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15486111" sideWeight="0.67267686" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24166666" sideWeight="0.67267686" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24166666" sideWeight="0.67267686" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1256" height="676" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -864,7 +891,8 @@
     </option>
     <MESSAGE value="Desktop. Added first group of Interrogation-based Tests for lectures 60-65" />
     <MESSAGE value="Added first 4 EMAP smoketests in jamestests package&#10;Updated selenium 2.39 libraries&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first 4 EMAP smoketests in jamestests package&#10;Updated selenium 2.39 libraries&#10;" />
+    <MESSAGE value="Added EMAP verify homepages smoketests&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added EMAP verify homepages smoketests&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1151,18 +1179,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="58" selection-start="764" selection-end="1112" vertical-scroll-proportion="0.0" vertical-offset="1869" max-vertical-offset="2363">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="7" selection-start="5270" selection-end="5270" vertical-scroll-proportion="0.68218625" vertical-offset="1635" max-vertical-offset="2329">
+        <state line="116" column="7" selection-start="5270" selection-end="5270" vertical-scroll-proportion="0.0" vertical-offset="1585" max-vertical-offset="2329">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1171,14 +1190,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2159">
-          <folding />
+        <state line="57" column="93" selection-start="2413" selection-end="2413" vertical-scroll-proportion="-5.090909" vertical-offset="689" max-vertical-offset="2329">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="38" selection-start="5447" selection-end="5447" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="2329">
+        <state line="120" column="96" selection-start="5703" selection-end="5703" vertical-scroll-proportion="-9.309091" vertical-offset="1528" max-vertical-offset="2329">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1187,7 +1208,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="2.8243833" vertical-offset="60" max-vertical-offset="2329">
+        <state line="120" column="96" selection-start="5688" selection-end="5688" vertical-scroll-proportion="-9.181818" vertical-offset="1535" max-vertical-offset="2329">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="58" selection-start="764" selection-end="1112" vertical-scroll-proportion="-2.3530655" vertical-offset="1640" max-vertical-offset="2363">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -24,101 +24,101 @@ public class VerifyAllHomepagesOnFirstServer {
     }
 
     @Test
-    public void canVerifyAjHomepageOnMainDomain (){
+    public void canVerifyAjHomepageOnFirstServer (){
         driver.get("http://architectslive1.architectsjournal.co.uk");
         WebElement AjSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='threeColumns'] div[class='column columnThree'] div[class='sectionhead'] h2"));
         assertThat(AjSpinblockTitle.getText(),is ("FOOTPRINT"));
     }
     @Test
-    public void canVerifyArHomepageOnMainDomain (){
+    public void canVerifyArHomepageOnFirstServer (){
         driver.get("http://arlive1.architectural-review.com");
         WebElement ArSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='column columnTwo'] div[class='colour2'] div[class='sectionhead_sleeve'] h2"));
         assertThat(ArSpinblockTitle.getText(),is ("PUBLIC EVENTS"));
     }
     @Test
-    public void canVerifyCnHomepageOnMainDomain (){
+    public void canVerifyCnHomepageOnFirstServer (){
         driver.get("http://cnlive1.cnplus.co.uk");
         WebElement CnSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='grid'] > div[class='oneColumn'] div[class='slideshow slideshowStyle2'] h2"));
         assertThat(CnSpinblockTitle.getText(),is ("TOP STORIES"));
     }
     @Test
-    public void canVerifyDrHomepageOnMainDomain (){
+    public void canVerifyDrHomepageOnFirstServer (){
         driver.get("http://draperslive1.drapersonline.com");
         WebElement DrSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='grid'] > div[class='oneColumn'] div[class='slideshow slideshowStyle2'] h2"));
         assertThat(DrSpinblockTitle.getText(),containsString("News"));
     }
     @Test
-    public void canVerifyHsjHomepageOnMainDomain (){
+    public void canVerifyHsjHomepageOnFirstServer (){
         driver.get("http://hsjlive1.hsj.co.uk");
         WebElement HsjNewsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.hsj.co.uk/news/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://hsjlive1.hsj.co.uk/news/']"));
         assertThat(HsjNewsNavItem.getText(),is("NEWS"));
     }
     @Test
-    public void canVerifyHvnHomepageOnMainDomain (){
+    public void canVerifyHvnHomepageOnFirstServer (){
         driver.get("http://hvnlive1.hvnplus.co.uk");
         WebElement HvnNewsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.hvnplus.co.uk/news/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://hvnlive1.hvnplus.co.uk/news/']"));
         assertThat(HvnNewsNavItem.getText(),is("NEWS"));
     }
     @Test
-    public void canVerifyLgcHomepageOnMainDomain (){
+    public void canVerifyLgcHomepageOnFirstServer (){
         driver.get("http://lgclive1.lgcplus.com");
         WebElement LgcJobsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.lgcjobs.com/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://lgclive1.lgcjobs.com/']"));
         assertThat(LgcJobsNavItem.getText(),is("JOBS"));
     }
     @Test
-         public void canVerifyLightingHomepageOnMainDomain (){
+         public void canVerifyLightingHomepageOnFirstServer (){
         driver.get("http://lightinglive1.lighting.co.uk");
         WebElement LightingNewsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.lighting.co.uk/news/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://lightinglive1.lighting.co.uk/news/']"));
         assertThat(LightingNewsNavItem.getText(),is("NEWS"));
     }
     @Test
-    public void canVerifyMrwHomepageOnMainDomain (){
+    public void canVerifyMrwHomepageOnFirstServer (){
         driver.get("http://mrwlive1.mrw.co.uk");
         WebElement MrwNewsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.mrw.co.uk/news/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://mrwlive1.mrw.co.uk/news/']"));
         assertThat(MrwNewsNavItem.getText(),is("News"));
     }
     @Test
-    public void canVerifyNceHomepageOnMainDomain (){
+    public void canVerifyNceHomepageOnFirstServer (){
         driver.get("http://ncelive1.nce.co.uk");
         WebElement NceNewsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.nce.co.uk/news/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://ncelive1.nce.co.uk/news/']"));
         assertThat(NceNewsNavItem.getText(),is("NEWS"));
     }
     @Test
-    public void canVerifyNtHomepageOnMainDomain (){
+    public void canVerifyNtHomepageOnFirstServer (){
         driver.get("http://nursinglive1.nursingtimes.net");
         WebElement NtPracticeNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.nursingtimes.net/nursing-practice/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://nursinglive1.nursingtimes.net/nursing-practice/']"));
         assertThat(NtPracticeNavItem.getText(),containsString("PRACTICE"));
     }
     @Test
-    public void canVerifyRacHomepageOnMainDomain (){
+    public void canVerifyRacHomepageOnFirstServer (){
         driver.get("http://raclive1.racplus.com");
         WebElement RacNewsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.racplus.com/news/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://raclive1.racplus.com/news/']"));
         assertThat(RacNewsNavItem.getText(),is("NEWS"));
     }
     @Test
-    public void canVerifyRjHomepageOnMainDomain (){
+    public void canVerifyRjHomepageOnFirstServer (){
         driver.get("http://rjlive1.retail-jeweller.com");
         WebElement RjProductsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.retail-jeweller.com/products/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://rjlive1.retail-jeweller.com/products/']"));
         assertThat(RjProductsNavItem.getText(),is("PRODUCTS"));
     }
     @Test
-    public void canVerifyRwHomepageOnMainDomain (){
+    public void canVerifyRwHomepageOnFirstServer (){
         driver.get("http://retaillive1.retail-week.com");
         WebElement RwCompaniesNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.retail-week.com/companies/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://retaillive1.retail-week.com/companies/']"));
         assertThat(RwCompaniesNavItem.getText(),is("Companies"));
     }
 
