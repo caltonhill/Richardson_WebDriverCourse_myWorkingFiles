@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa08f01-57cc-4a0b-96b8-68e09567e576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_android_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_android_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_iphone_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_server_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_2_39_0.xml" />
-      <change type="MOVED" beforePath="C:\Selenium\own_project_build\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_37_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_39_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/own_webdriver_training.iml" afterPath="$PROJECT_DIR$/own_webdriver_training.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="own_project_build.iws" />
@@ -89,10 +70,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RwSubscriberLoginThroughBarrier.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
+      <file leaf-file-name="VerifyAllHomepagesOnFirstServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="2.0852392" vertical-offset="0" max-vertical-offset="1870">
+            <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2159">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyAllHomepagesOnSecondServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="118" column="38" selection-start="5447" selection-end="5447" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="2329">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,21 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HsjSubscriberLoginThroughBarrier.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
+      <file leaf-file-name="VerifyAllHomepagesOnThirdServer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="64" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="1836">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AJSubscriberLoginThroughBarrier.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="1853">
+            <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="2.8243833" vertical-offset="60" max-vertical-offset="2329">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,6 +138,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesLive1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesMainDomain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/NEWVerifyAllHomepagesOnMainDomain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java" />
       </list>
     </option>
   </component>
@@ -231,6 +217,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -461,7 +448,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -485,68 +471,21 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jamestests" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Selenium\own_project_build\src\test\java\com\seleniumtraining\junit" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.jamestests in own_webdriver_training">
-    <configuration default="false" name="AJSubscriberLoginThroughBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain">
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyNtHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.AJSubscriberLoginThroughBarrier" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RwSubscriberLoginThroughBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="own_webdriver_training" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.RwSubscriberLoginThroughBarrier" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="AJSubscriberLoginThroughBarrier.testSigninARTICLEAJSUBSCRIBER" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="own_webdriver_training" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.AJSubscriberLoginThroughBarrier" />
-      <option name="METHOD_NAME" value="testSigninARTICLEAJSUBSCRIBER" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
+      <option name="METHOD_NAME" value="canVerifyNtHomepageOnMainDomain" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -562,13 +501,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="RwSubscriberLoginThroughBarrier.testRwSubscriberLoginThroughBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.RwSubscriberLoginThroughBarrier" />
-      <option name="METHOD_NAME" value="testRwSubscriberLoginThroughBarrier" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
+      <option name="METHOD_NAME" value="canVerifyRacHomepageOnMainDomain" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -584,14 +523,58 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="com.jamestests in own_webdriver_training" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="own_webdriver_training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
+      <option name="METHOD_NAME" value="canVerifyRjHomepageOnMainDomain" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="own_webdriver_training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jamestests" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
+      <option name="METHOD_NAME" value="canVerifyRwHomepageOnMainDomain" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -610,6 +593,26 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -634,45 +637,12 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -700,6 +670,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -756,19 +739,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier.testSigninARTICLEAJSUBSCRIBER" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier.testRwSubscriberLoginThroughBarrier" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.com.jamestests in own_webdriver_training" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyNtHomepageOnMainDomain" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.com.jamestests in own_webdriver_training" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RwSubscriberLoginThroughBarrier.testRwSubscriberLoginThroughBarrier" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier.testSigninARTICLEAJSUBSCRIBER" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRwHomepageOnMainDomain" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRacHomepageOnMainDomain" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyNtHomepageOnMainDomain" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -808,7 +791,11 @@
       <created>1384706835782</created>
       <updated>1384706835782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added first 4 EMAP smoketests in jamestests package&#10;Updated selenium 2.39 libraries&#10;">
+      <created>1390256642265</created>
+      <updated>1390256642265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -841,7 +828,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15844156" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15454546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -852,7 +839,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24166666" sideWeight="0.67267686" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1256" height="676" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -876,7 +863,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Desktop. Added first group of Interrogation-based Tests for lectures 60-65" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desktop. Added first group of Interrogation-based Tests for lectures 60-65" />
+    <MESSAGE value="Added first 4 EMAP smoketests in jamestests package&#10;Updated selenium 2.39 libraries&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first 4 EMAP smoketests in jamestests package&#10;Updated selenium 2.39 libraries&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -886,6 +874,29 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1870">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="64" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="1836">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1717">
@@ -1117,36 +1128,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="521" selection-end="521" vertical-scroll-proportion="0.6447106" vertical-offset="0" max-vertical-offset="2363">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="1853">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="64" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="1836">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="2.0852392" vertical-offset="0" max-vertical-offset="1870">
+        <state line="31" column="58" selection-start="764" selection-end="1112" vertical-scroll-proportion="0.0" vertical-offset="1869" max-vertical-offset="2363">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="7" selection-start="5270" selection-end="5270" vertical-scroll-proportion="0.68218625" vertical-offset="1635" max-vertical-offset="2329">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="0.0" vertical-offset="969" max-vertical-offset="2159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="38" selection-start="5447" selection-end="5447" vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="2329">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="38" selection-start="5446" selection-end="5446" vertical-scroll-proportion="2.8243833" vertical-offset="60" max-vertical-offset="2329">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
