@@ -8,6 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import java.util.concurrent.TimeUnit;
+
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
@@ -21,6 +23,7 @@ public class VerifyAllHomepagesOnThirdServer {
     @BeforeClass
     public static void createDriver(){
         driver = new FirefoxDriver();
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
     @Test
@@ -35,7 +38,7 @@ public class VerifyAllHomepagesOnThirdServer {
         driver.get("http://arlive3.architectural-review.com");
         WebElement ArSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='column columnTwo'] div[class='colour2'] div[class='sectionhead_sleeve'] h2"));
-        assertThat(ArSpinblockTitle.getText(),is ("PUBLIC EVENTS"));
+        assertThat(ArSpinblockTitle.getText(),is ("POPULAR"));
     }
     @Test
     public void canVerifyCnHomepageOnThirdServer (){
@@ -69,7 +72,7 @@ public class VerifyAllHomepagesOnThirdServer {
     public void canVerifyLgcHomepageOnThirdServer (){
         driver.get("http://lgclive3.lgcplus.com");
         WebElement LgcJobsNavItem = driver.findElement
-                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://lgclive3.lgcjobs.com/']"));
+                (By.cssSelector("div[id='mainnav_sleeve'] > ul > li > a[href='http://www.lgcjobs.com/']"));
         assertThat(LgcJobsNavItem.getText(),is("JOBS"));
     }
     @Test
