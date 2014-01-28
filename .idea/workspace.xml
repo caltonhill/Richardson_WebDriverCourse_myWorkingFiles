@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa08f01-57cc-4a0b-96b8-68e09567e576" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/xpath/FindByXPathExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/GetTitleUsingInterrogationTechniques.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" afterPath="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
@@ -70,65 +72,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="VerifyAllHomepagesOnFirstServer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
+      <file leaf-file-name="GetTitleUsingInterrogationTechniques.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/GetTitleUsingInterrogationTechniques.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="58" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2176">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HsjSubscriberLoginThroughBarrier.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="609" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1836">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifyAllHomepagesOnSecondServer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="58" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2176">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifyAllHomepagesOnThirdServer.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="58" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.35940802" vertical-offset="306" max-vertical-offset="2176">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmapFriendlyUrlChecker.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="6" selection-start="2508" selection-end="2508" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2159">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifyAllHomepagesOnMainDomain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="58" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2159">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AJSubscriberLoginThroughBarrier.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1734">
-              <folding />
+            <state line="38" column="56" selection-start="1137" selection-end="1137" vertical-scroll-proportion="1.0242915" vertical-offset="140" max-vertical-offset="986">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,11 +122,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesLive1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesMainDomain.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/NEWVerifyAllHomepagesOnMainDomain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/xpath/FindByXPathExercise.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/GetTitleUsingInterrogationTechniques.java" />
       </list>
     </option>
   </component>
@@ -249,7 +201,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -291,6 +242,180 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xpath" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="navigation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="junit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interrogation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own_project_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumtraining" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_selectors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -340,6 +465,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -370,13 +496,13 @@
       <recent name="C:\Selenium\own_project_build\src\test\java\com\seleniumtraining\junit" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmapFriendlyUrlChecker.openHsjSectionPgFriendlyUrlAndCheckForText">
-    <configuration default="false" name="EmapFriendlyUrlChecker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain">
+    <configuration default="false" name="FindByXPathExercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.EmapFriendlyUrlChecker" />
+      <option name="PACKAGE_NAME" value="com.seleniumtraining.xpath" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.xpath.FindByXPathExercise" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -393,14 +519,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="AJSubscriberLoginThroughBarrier and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="GetTitleUsingInterrogationTechniques" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="PACKAGE_NAME" value="com.seleniumtraining.interrogation" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.interrogation.GetTitleUsingInterrogationTechniques" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="pattern" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -410,22 +536,18 @@
         <value defaultName="moduleWithDependencies" />
       </option>
       <envs />
-      <patterns>
-        <pattern testClass="com.jamestests.AJSubscriberLoginThroughBarrier" />
-        <pattern testClass="com.jamestests.HsjSubscriberLoginThroughBarrier" />
-        <pattern testClass="com.jamestests.RwSubscriberLoginThroughBarrier" />
-      </patterns>
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="EmapFriendlyUrlChecker.openLightingSectionPgFriendlyUrlAndCheckForText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="GetTitleUsingInterrogationTechniques.canGetTitleUsingCssSelectors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.EmapFriendlyUrlChecker" />
-      <option name="METHOD_NAME" value="openLightingSectionPgFriendlyUrlAndCheckForText" />
+      <option name="PACKAGE_NAME" value="com.seleniumtraining.interrogation" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumtraining.interrogation.GetTitleUsingInterrogationTechniques" />
+      <option name="METHOD_NAME" value="canGetTitleUsingCssSelectors" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -441,14 +563,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="EmapFriendlyUrlChecker.openHsjSectionPgFriendlyUrlAndCheckForText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.EmapFriendlyUrlChecker" />
-      <option name="METHOD_NAME" value="openHsjSectionPgFriendlyUrlAndCheckForText" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -463,13 +585,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="EmapFriendlyUrlChecker.openRjSectionPgFriendlyUrlAndCheckForText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="own_webdriver_training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jamestests" />
-      <option name="MAIN_CLASS_NAME" value="com.jamestests.EmapFriendlyUrlChecker" />
-      <option name="METHOD_NAME" value="openRjSectionPgFriendlyUrlAndCheckForText" />
+      <option name="MAIN_CLASS_NAME" value="com.jamestests.VerifyAllHomepagesOnMainDomain" />
+      <option name="METHOD_NAME" value="canVerifyRjHomepageOnMainDomain" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -489,26 +611,6 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -533,12 +635,45 @@
       </MavenSettings>
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -566,19 +701,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -635,19 +757,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier and 2 more" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker.openLightingSectionPgFriendlyUrlAndCheckForText" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker.openHsjSectionPgFriendlyUrlAndCheckForText" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker.openRjSectionPgFriendlyUrlAndCheckForText" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FindByXPathExercise" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.GetTitleUsingInterrogationTechniques" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GetTitleUsingInterrogationTechniques.canGetTitleUsingCssSelectors" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker.openHsjSectionPgFriendlyUrlAndCheckForText" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker.openRjSectionPgFriendlyUrlAndCheckForText" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker.openLightingSectionPgFriendlyUrlAndCheckForText" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AJSubscriberLoginThroughBarrier and 2 more" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.EmapFriendlyUrlChecker" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain.canVerifyRjHomepageOnMainDomain" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VerifyAllHomepagesOnMainDomain" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GetTitleUsingInterrogationTechniques.canGetTitleUsingCssSelectors" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.GetTitleUsingInterrogationTechniques" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FindByXPathExercise" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -699,7 +821,11 @@
       <created>1390341177960</created>
       <updated>1390341177960</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Amends to Smoke Tests. Added some Timeouts, updated for text changes">
+      <created>1390661937045</created>
+      <updated>1390661937045</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -723,7 +849,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -770,7 +896,8 @@
     <MESSAGE value="Added first 4 EMAP smoketests in jamestests package&#10;Updated selenium 2.39 libraries&#10;" />
     <MESSAGE value="Added EMAP verify homepages smoketests&#10;" />
     <MESSAGE value="Some corrections to VerifyHomepages smoke tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some corrections to VerifyHomepages smoke tests" />
+    <MESSAGE value="Amends to Smoke Tests. Added some Timeouts, updated for text changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amends to Smoke Tests. Added some Timeouts, updated for text changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -780,20 +907,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="93" selection-start="2413" selection-end="2413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2329">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="96" selection-start="5703" selection-end="5703" vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="2329">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="96" selection-start="5688" selection-end="5688" vertical-scroll-proportion="0.0" vertical-offset="1535" max-vertical-offset="2329">
@@ -819,7 +932,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1870">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -957,16 +1070,6 @@
         <state line="553" column="30" selection-start="20610" selection-end="20610" vertical-scroll-proportion="0.33282906" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitExampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitJamesExerciseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitBeforeAfterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="13" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -977,26 +1080,6 @@
         <state line="28" column="21" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="748">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/RichardsonInterrogationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="714" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/Section10InterrogationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="26" selection-start="1105" selection-end="1189" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="833" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="441" max-vertical-offset="1037" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="21" selection-start="584" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/webdriver/NavigationExampleTest.java">
@@ -1014,66 +1097,128 @@
         <state line="19" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1224" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="127" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/RwSubscriberLoginThroughBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="10" selection-start="2703" selection-end="2703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/HsjSubscriberLoginThroughBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="609" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1717">
+        <state line="19" column="8" selection-start="609" selection-end="673" vertical-scroll-proportion="-0.24740125" vertical-offset="323" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/AJSubscriberLoginThroughBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1734">
+        <state line="33" column="62" selection-start="1249" selection-end="1291" vertical-scroll-proportion="-0.24740125" vertical-offset="561" max-vertical-offset="1734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/RichardsonInterrogationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/Section10InterrogationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="26" selection-start="1105" selection-end="1189" vertical-scroll-proportion="0.57894737" vertical-offset="292" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/junit/JUnitJamesExerciseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FirstFindByExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="78" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/css_selectors/CssBasicExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="903" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/FindElementsExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="88" selection-start="785" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1360">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/EmapFriendlyUrlChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="6" selection-start="2508" selection-end="2508" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2159">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="58" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2159">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="58" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="2176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="58" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2176">
+        <state line="154" column="58" selection-start="7356" selection-end="7356" vertical-scroll-proportion="0.0" vertical-offset="1789" max-vertical-offset="2635">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnThirdServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="58" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.35940802" vertical-offset="306" max-vertical-offset="2176">
+        <state line="106" column="63" selection-start="4857" selection-end="4857" vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2652">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnSecondServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="63" selection-start="4867" selection-end="4867" vertical-scroll-proportion="0.0" vertical-offset="1360" max-vertical-offset="2652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnFirstServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="4" selection-start="6636" selection-end="6636" vertical-scroll-proportion="0.0" vertical-offset="1914" max-vertical-offset="2652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jamestests/VerifyAllHomepagesOnMainDomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="7" selection-start="6371" selection-end="6371" vertical-scroll-proportion="0.0" vertical-offset="1790" max-vertical-offset="2652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/xpath/FindByXPathExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumtraining/interrogation/GetTitleUsingInterrogationTechniques.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="56" selection-start="1137" selection-end="1137" vertical-scroll-proportion="1.0242915" vertical-offset="140" max-vertical-offset="986">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
