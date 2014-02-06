@@ -44,12 +44,12 @@ public class VerifyAllHomepagesOnThirdServer {
                 ExpectedConditions.titleContains(""));
         WebElement ArSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='column columnTwo'] div[class='colour2'] div[class='sectionhead_sleeve'] h2"));
-        assertThat(ArSpinblockTitle.getText(),is ("POPULAR"));
+        assertThat(ArSpinblockTitle.getText(),is ("PUBLIC EVENTS"));
     }
     @Test
     public void canVerifyCnHomepageOnThirdServer (){
         driver.get("http://cnlive3.cnplus.co.uk");
-        new WebDriverWait(driver,10,300).until(
+        new WebDriverWait(driver, 10, 300).until(
                 ExpectedConditions.titleContains("Construction"));
         WebElement CnSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='grid'] > div[class='oneColumn'] div[class='slideshow slideshowStyle2'] h2"));

@@ -44,7 +44,7 @@ public class VerifyAllHomepagesOnMainDomain {
                 ExpectedConditions.titleContains(""));
         WebElement ArSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='column columnTwo'] div[class='colour2'] div[class='sectionhead_sleeve'] h2"));
-        assertThat(ArSpinblockTitle.getText(),is ("POPULAR"));
+        assertThat(ArSpinblockTitle.getText(),is ("PUBLIC EVENTS"));
     }
     @Test
     public void canVerifyCnHomepageOnMainDomain (){
