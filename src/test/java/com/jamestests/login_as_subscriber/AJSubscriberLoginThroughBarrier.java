@@ -1,4 +1,4 @@
-package com.jamestests;
+package com.jamestests.login_as_subscriber;
 
 import java.util.regex.Pattern;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package com.jamestests;
+package com.jamestests.check_sites_up;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -27,8 +27,19 @@ public class EmapFriendlyUrlChecker {
     @BeforeClass
     public static void createDriver(){
         driver = new FirefoxDriver();
-        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
+
+    /**
+     * Intention is simple check that a page is loaded on friendly url
+     * For each site: navigates to section page on friendly url.
+     * Tells Webdriver to wait maximum 10 secs whilst it checks
+     * page title to confirm page has loaded. NB. some sites don't populate
+     * <title>!.
+     * Locates a text element on page, such as a spinblock title and asserts
+     * match to expected text string.
+     * NB. Tests can therefore fail just through text change in CMS.
+     * At some point will refactor to use more permanent page elements
+     */
     @Test
     public void openAjSectionPgFriendlyUrlAndCheckForText (){
         driver.get("http://www.architectsjournal.co.uk/news/");
@@ -37,7 +48,7 @@ public class EmapFriendlyUrlChecker {
         WebElement AjSpinblockTitle = driver.findElement
                 (By.cssSelector("div.column.columnTwo > div.style > div.colour1 > div.sectionhead " +
                         "> div.sectionhead_sleeve > h2"));
-                assertThat(AjSpinblockTitle.getText(),is ("LATEST NEWS"));
+                assertThat(AjSpinblockTitle.getText().toLowerCase(),is ("latest news"));
     }
     @Test
     public void openArSectionPgFriendlyUrlAndCheckForText () {
@@ -47,7 +58,7 @@ public class EmapFriendlyUrlChecker {
         WebElement ArSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='twoColumnsSmallRight'] > div[class='columnContainer'] " +
                         "div[class='column columnOne'] div[class='sectionhead_sleeve'] h2"));
-                assertThat(ArSpinblockTitle.getText(),is ("BUILDINGS"));
+                assertThat(ArSpinblockTitle.getText().toLowerCase(),is ("buildings"));
     }
     @Test
     public void openCnSectionPgFriendlyUrlAndCheckForText () {
@@ -57,7 +68,7 @@ public class EmapFriendlyUrlChecker {
         WebElement CnSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='columnContainer'] > div[class='column columnOne'] > " +
                         "div[class='htmlContent'] div[class='sectionhead_sleeve'] h2"));
-        assertThat(CnSpinblockTitle.getText(),is ("TODAY'S PICKS"));
+        assertThat(CnSpinblockTitle.getText().toLowerCase(),is ("today's picks"));
     }
     @Test
     public void openDrSectionPgFriendlyUrlAndCheckForText () {
@@ -66,14 +77,14 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains(""));
         WebElement DrPageIntroText = driver.findElement
                 (By.cssSelector("div[id='section_intro']"));
-        assertThat(DrPageIntroText.getText(),is ("Fashion brand news, fashion trends"));
+        assertThat(DrPageIntroText.getText().toLowerCase(),is ("fashion brand news, fashion trends"));
     }
     @Test
     public void openHsjSectionPgFriendlyUrlAndCheckForText () {
         driver.get("http://www.hsj.co.uk/news/");
         new WebDriverWait(driver,10,300).until(
                 ExpectedConditions.titleContains("HSJ"));
-        assertThat(driver.getTitle(),containsString ("NHS news"));
+        assertThat(driver.getTitle().toLowerCase(),containsString ("nhs news"));
     }
     @Test
     public void openHvnSectionPgFriendlyUrlAndCheckForText () {
@@ -82,7 +93,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains(""));
         WebElement HvnSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='colour1'] div[class='sectionhead_sleeve'] > h2"));
-        assertThat(HvnSpinblockTitle.getText(),is ("YOUR VIEWS"));
+        assertThat(HvnSpinblockTitle.getText().toLowerCase(),is ("your views"));
     }
     @Test
     public void openLgcSectionPgFriendlyUrlAndCheckForText () {
@@ -91,7 +102,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains("Government"));
         WebElement LgcPageIntroText = driver.findElement
                 (By.cssSelector("div[id='section_intro'] > h4"));
-        assertThat(LgcPageIntroText.getText(),is ("Opinion from LGC"));
+        assertThat(LgcPageIntroText.getText().toLowerCase(),is ("opinion from lgc"));
     }
     @Test
     public void openLightingSectionPgFriendlyUrlAndCheckForText () {
@@ -100,7 +111,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains("hardware"));
         WebElement LightingHyperlinkedSpinblockTitle = driver.findElement
                 (By.cssSelector("a[href='http://www.lighting.co.uk/section1.aspx?navCode=1244']"));
-        assertThat(LightingHyperlinkedSpinblockTitle.getText(),is ("Lamps"));
+        assertThat(LightingHyperlinkedSpinblockTitle.getText().toLowerCase(),is ("lamps"));
     }
     @Test
     public void openMrw2ndLevelSectionPgFriendlyUrlAndCheckForText () {
@@ -109,7 +120,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains("Recycling"));
         WebElement MrwSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='section_column1'] > div[class='colour1'] h2"));
-        assertThat(MrwSpinblockTitle.getText(),is ("Collections News"));
+        assertThat(MrwSpinblockTitle.getText().toLowerCase(),is ("collections news"));
     }
     @Test
     public void openNceSectionPgFriendlyUrlAndCheckForText () {
@@ -118,7 +129,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains(""));
         WebElement NcePageIntroText = driver.findElement
                 (By.cssSelector("div[id='section_intro']"));
-        assertThat(NcePageIntroText.getText(),startsWith("Features"));
+        assertThat(NcePageIntroText.getText().toLowerCase(),startsWith("features"));
     }
     @Test
     public void openNtSectionPgFriendlyUrlAndCheckForText () {
@@ -128,7 +139,7 @@ public class EmapFriendlyUrlChecker {
         WebElement NtHtmlBlockTitle = driver.findElement
                 (By.cssSelector("div[class='section_column1'] > div[class='htmlContent'] " +
                         "div[class='sectionhead_sleeve']"));
-        assertThat(NtHtmlBlockTitle.getText(),containsString("ARCHIVE"));
+        assertThat(NtHtmlBlockTitle.getText().toLowerCase(),containsString("archive"));
     }
     @Test
     public void openRacSectionPgFriendlyUrlAndCheckForText () {
@@ -137,7 +148,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains("RAC"));
         WebElement RacSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='sectionhead_sleeve'] > h2"));
-        assertThat(RacSpinblockTitle.getText(),startsWith("RAC"));
+        assertThat(RacSpinblockTitle.getText().toLowerCase(),startsWith("rac"));
     }
     @Test
     public void openRjSectionPgFriendlyUrlAndCheckForText () {
@@ -146,7 +157,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains("product"));
         WebElement RjSpinblockTitle = driver.findElement
                 (By.cssSelector("div[class='sectionhead_sleeve'] > h2"));
-        assertThat(RjSpinblockTitle.getText(),is("PRODUCT NEWS"));
+        assertThat(RjSpinblockTitle.getText().toLowerCase(),is("product news"));
     }
     @Test
     public void openRw2ndLevelSectionPgFriendlyUrlAndCheckForText () {
@@ -155,7 +166,7 @@ public class EmapFriendlyUrlChecker {
                 ExpectedConditions.titleContains("food"));
         WebElement RwBlockTitle = driver.findElement
                 (By.cssSelector("div[class='section-header-2013']"));
-        assertThat(RwBlockTitle.getText(),is("Sectors"));
+        assertThat(RwBlockTitle.getText().toLowerCase(),is("sectors"));
     }
     @AfterClass
     public static void quitDriver(){
